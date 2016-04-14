@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./luciiannaeiflor00freigoog_0330.png"; bbox 0 0 2270 3920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 284 131 2120 248">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 284 108 2260 248">
+     <span class='ocr_line' id='line_1_1' title="bbox 284 131 2120 248; baseline -0.006 -26"><span class='ocrx_word' id='word_1_1' title='bbox 284 156 473 221; x_wconf 60' lang='lat'><strong><em>266=</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 546 145 992 248; x_wconf 51' lang='lat' dir='ltr'><strong><em>hunul.</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1068 136 1267 214; x_wconf 60' lang='lat' dir='ltr'><strong><em>CA».</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1320 143 1441 211; x_wconf 89' lang='grc' dir='ltr'><strong><em>ΧῙ.</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1557 137 2003 237; x_wconf 55' lang='grc' dir='ltr'><strong><em>στιβεκιὶῥζ</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2113 131 2120 143; x_wconf 64' lang='grc'><em>”</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

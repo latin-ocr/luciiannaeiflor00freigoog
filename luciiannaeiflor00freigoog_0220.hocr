@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./luciiannaeiflor00freigoog_0220.png"; bbox 0 0 2270 3920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 242 208 422 257">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 242 208 422 257">
+     <span class='ocr_line' id='line_1_1' title="bbox 242 208 422 257; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 242 233 243 236; x_wconf 38' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_2' title='bbox 308 208 422 257; x_wconf 65' lang='lat'><strong>*62</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 612 156 1594 257">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 612 141 1594 257">
+     <span class='ocr_line' id='line_1_2' title="bbox 612 156 1594 257; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 612 192 912 257; x_wconf 58' lang='lat' dir='ltr'><strong>mma</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 963 191 1062 257; x_wconf 88' lang='lat'><strong>11.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1118 187 1318 257; x_wconf 59' lang='lat' dir='ltr'><strong>cm.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1352 156 1594 257; x_wconf 58' lang='lat' dir='ltr'><strong>&#39;vms</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1740 183 2045 256">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1740 183 2045 256">
+     <span class='ocr_line' id='line_1_3' title="bbox 1740 183 2045 256; baseline -0.007 0"><span class='ocrx_word' id='word_1_7' title='bbox 1740 183 2045 256; x_wconf 62' lang='lat' dir='ltr'><strong>&#39;Antiocbmz⁴</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2243 481 2244 1151">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2243 481 2244 1151">
+     <span class='ocr_line' id='line_1_4' title="bbox 2243 481 2244 1151; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 2243 481 2244 1151; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
